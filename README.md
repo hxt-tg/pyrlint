@@ -7,6 +7,6 @@ Python implementation of lint tools for R language.
 
 ## Install
 
-For user: `pip install -U git+https://github.com/hxt-tg/pyrlint`
+For user: `pip install pyrlint`
 
 For developer: Clone this repo, then `pip install -e . --config-settings editable_mode=compat`

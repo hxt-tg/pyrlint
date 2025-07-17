@@ -7,6 +7,15 @@ authors = [{ name = "hxt-tg", email = "hxt.taoge@gmail.com" }]
 requires-python = ">=3.8"
 dependencies = ["importlib-metadata>=3.6.0; python_version < '3.12'"]
 dynamic = ["version"]
+classifiers = [
+    "Programming Language :: R :: <=4.2.*",
+]
+license = "GPL v2.0"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/hxt-tg/pyrlint"
+Issues = "https://github.com/hxt-tg/pyrlint"
 
 [build-system]
 requires = ["setuptools"]
