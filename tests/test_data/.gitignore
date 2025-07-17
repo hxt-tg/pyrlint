@@ -1,0 +1,11 @@
+*
+!.gitignore
+!anchor-sections.Rmd
+!clean-format.Rmd
+!example-r-markdown.Rmd
+!output_dir.Rmd
+!raw-header.Rmd
+!two-authors.Rmd
+!two-bibs.Rmd
+!yaml-r-code.Rmd
+!test.Rmd
